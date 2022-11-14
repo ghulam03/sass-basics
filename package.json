@@ -1,0 +1,12 @@
+{
+  "name": "using-sass",
+  "version": "1.0.0",
+  "description": "example study for sass",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
